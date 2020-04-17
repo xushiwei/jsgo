@@ -1,4 +1,5 @@
 *.iml
+*.zip
 .DS_Store
 .idea/
 coverage.out
